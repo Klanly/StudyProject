@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Download/Scene/GameScene_ChangAn.unity
+  isLoaded: 1
+  isActive: 1
