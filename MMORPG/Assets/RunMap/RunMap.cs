@@ -163,7 +163,7 @@ public class RunMap : MonoBehaviour
             m_Animator.SetBool("Run", true);
         }
         else
-            m_Animator.SetBool("Run", true);
+            m_Animator.SetBool("Run", false);
 
         transform.localPosition += m_Move * MoveSpeed;
 
